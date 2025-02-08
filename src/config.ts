@@ -6,8 +6,8 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
   {
-        domain: "easy-reverse-proxy-three.vercel.app",
-        url: "https://github.com/",
+        domain: "pronet.runtimutd.eu.org",
+        url: "https://google.com/",
         enable: true
   }
 ];
