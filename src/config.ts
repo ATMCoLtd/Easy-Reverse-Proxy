@@ -8,5 +8,9 @@ export let PROXIES: Proxy[] = [
   {
         domain: "pronet.runtimutd.eu.org",
         url: "https://github.com/",
+  },
+  {
+        domain: "easy-reverse-proxy-imzmidwem-atmcoltds-projects.vercel.app",
+        url: "https://www.google.com/",
   }
 ];
