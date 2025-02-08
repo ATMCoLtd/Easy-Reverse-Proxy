@@ -8,6 +8,5 @@ export let PROXIES: Proxy[] = [
   {
         domain: "pronet.runtimutd.eu.org",
         url: "https://www.google.com/",
-        enable: true
   }
 ];
