@@ -5,12 +5,7 @@ export let PORT = 377; // 端口
 export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
-  {
-        domain: "pronet.runtimutd.eu.org",
-        url: "https://github.com/",
-        enable: true
-  },
-  {
+ {
         domain: "easy-reverse-proxy-imzmidwem-atmcoltds-projects.vercel.app",
         url: "https://www.google.com/",
         enable: true
