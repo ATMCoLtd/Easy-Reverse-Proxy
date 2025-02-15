@@ -21,6 +21,11 @@ export let PROXIES: Proxy[] = [
         domain: "ipr.runtimutd.eu.org",
         url: "https://ip.runtimu.com",
         enable: true
+},
+{
+        domain: "chatgpt.runtimutd.eu.org",
+        url: "https://chatgpt.com",
+        enable: true
 }
 ];
 
