@@ -16,6 +16,11 @@ export let PROXIES: Proxy[] = [
         domain: "test.runtimutd.eu.org",
         url: "https://whoer.net",
         enable :true
+},
+{
+        domain: "ipr.runtimutd.eu.org",
+        url: "https://ip.runtimu.com",
+        enable: true
 }
 ];
 
