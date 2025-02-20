@@ -56,4 +56,3 @@ let template: Google = {
         return option;
     }
 };
-export default template;
