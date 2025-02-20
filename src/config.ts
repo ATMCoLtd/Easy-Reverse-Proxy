@@ -32,12 +32,12 @@ export let PROXIES: Proxy[] = [
         domain: "874236.runtimutd.eu.org",
         url: "https://www.874236.com",
         enable: true,
-        template: 874236
+        template: eight
 
 }
 ];
 
-let template: 874236 = {
+let template: eight = {
     async response (option) {
         let bodyString = option.body.toString();
         bodyString = bodyString.replaceAll('津公网安备 12010302002427号', '');
