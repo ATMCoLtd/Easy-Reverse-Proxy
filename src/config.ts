@@ -30,8 +30,8 @@ export let PROXIES: Proxy[] = [
  {
         domain: "pronet.runtimutd.eu.org",
         url: "https://www.google.com",
-        enable: true,
-        template: Google
+        enable: true
+        
  },
  {
         domain: "test.runtimutd.eu.org",
@@ -51,8 +51,8 @@ export let PROXIES: Proxy[] = [
 {
         domain: "874236.runtimutd.eu.org",
         url: "https://www.874236.com",
-        enable: true,
-        template: eight
+        enable: true
+        
 
 }
 ];
