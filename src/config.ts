@@ -17,7 +17,7 @@ export let PROXIES: Proxy[] = [
  },
  {
         domain: "test.runtimutd.eu.org",
-        url: "https://t.me",
+        url: "https://telegram.org",
         enable :true
 },
 {
