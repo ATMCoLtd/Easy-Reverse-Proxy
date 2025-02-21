@@ -17,7 +17,7 @@ export let PROXIES: Proxy[] = [
  },
  {
         domain: "test.runtimutd.eu.org",
-        url: "https://youtube.com",
+        url: "https://www.youtube.com",
         enable :true
 },
 {
