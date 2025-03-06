@@ -17,7 +17,7 @@ export let PROXIES: Proxy[] = [
  },
  {
         domain: "test.runtimutd.eu.org",
-        url: "https://grok.com",
+        url: "https://basic.smartedu.cn",
         enable :true
 },
 {
